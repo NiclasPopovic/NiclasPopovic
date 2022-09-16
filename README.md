@@ -3,9 +3,9 @@
 
 - 📝 I'm currently doing an PhD in [Production Management at WHU](https://www.whu.edu/en/faculty/supply-chain-management-group/production-management/external-doctoral-students/niclas-popovic/)
 
-- 🌱 I’m currently learning **Machine learning algorithms and the underlying mathematics for regression problems**
+- 🌱 I’m currently learning **machine learning algorithms and the underlying mathematics for regression problems**
 
-- 🔭 I'm currently working on **Forecasting and inventory control**
+- 🔭 I'm currently working on **forecasting and inventory control**
 
 - 📝 I regularly write articles on [https://medium.com/@NiclasPopovic0402](https://medium.com/@NiclasPopovic0402)
 
