@@ -24,7 +24,11 @@
  <a href="https://xgboost.readthedocs.io/en/stable/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" alt="xgboost" width="120" height="40"/> </a> 
   <a href="https://www.statsmodels.org/stable/index.html" target="_blank" rel="noreferrer"> <img src="https://www.statsmodels.org/stable/_static/statsmodels-logo-v2-bw.svg" alt="statsmodels" width="40" height="40"/> </a> 
  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+ <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="hhttps://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="sql" width="80" height="40"/> </a> </p>
+ 
+<a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+
+
 
 <h3 align="left">Advanced Analytics Tools:</h3>
 <p align="left">
