@@ -28,7 +28,7 @@
 
 <h3 align="left">Advanced Analytics Tools:</h3>
 <p align="left">
-<a href="[https://grafana.com](https://www.ibm.com/products/ilog-cplex-optimization-studio/cplex-optimizer)" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/800px-IBM_logo.svg.png" alt="CPLEX" width="40" height="40"/> </a>
+<a href="[https://grafana.com](https://www.ibm.com/products/ilog-cplex-optimization-studio/cplex-optimizer)" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/800px-IBM_logo.svg.png" alt="CPLEX" width="80" height="40"/> </a>
 <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> 
   </p>
   
