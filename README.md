@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/niclas-popovic/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/niclas-popovic/" height="30" width="40" /></a>
 <a href="https://medium.com/@niclaspopovic0402" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@niclaspopovic0402" height="30" width="40" /></a>
-<a href="mailto:niclaspopovic@gmail.com"><img align="center" src="https://de.wikipedia.org/wiki/Gmail#/media/Datei:Gmail_icon_(2020).svg" alt="niclaspopovic@gmail.com" height="30" width="40" /></a>
+<a href="mailto:niclaspopovic@gmail.com"><img align="center" src="https://img.freepik.com/freie-ikonen/email_318-859700.jpg" alt="niclaspopovic@gmail.com" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages:</h3>
 <p align="left"> 
