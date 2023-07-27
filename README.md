@@ -19,7 +19,7 @@
 <h3 align="left">Languages:</h3>
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/Rlogo.png" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/Rlogo.png" alt="r" width="40" height="40"/> </a> 
 <a href="" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="sql" width="80" height="40"/> </a>
 </p>
 
@@ -33,6 +33,9 @@
 <a href="https://www.statsmodels.org/stable/index.html" target="_blank" rel="noreferrer"> <img src="https://www.statsmodels.org/stable/_static/statsmodels-logo-v2-bw.svg" alt="statsmodels" width="40" height="40"/> </a> 
 <a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://scipy.org/images/logo.svg" alt="scipy" width="40" height="40"/> </a> 
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
+
+<a href="https://ggplot2.tidyverse.org/" target="_blank" rel="noreferrer"> <img src="https://ggplot2.tidyverse.org/logo.png" alt="ggplot2" width="40" height="40"/> </a> 
+ 
  </p>
 
 <h3 align="left">Advanced Analytics Tools:</h3>
