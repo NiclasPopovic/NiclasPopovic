@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **machine learning algorithms and the underlying mathematics for regression problems as well as simulation-based optimization algorithms**
 
-- 🔭 I'm currently working on **forecasting and inventory control**
+- 🔭 I'm currently working on **forecasting and inventory control systems** ithin the context of circular economy applications.
 
 - 📝 I regularly write articles on [https://medium.com/@NiclasPopovic0402](https://medium.com/@NiclasPopovic0402)
 
