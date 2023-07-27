@@ -14,8 +14,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/niclas-popovic/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/niclas-popovic/" height="30" width="40" /></a>
-<a href="https://medium.com/@niclaspopovic0402" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@niclaspopovic0402" height="30" width="40" /></a>
 <a href="mailto:niclaspopovic@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="niclaspopovic@gmail.com" height="30" width="40" /></a>
+<a href="https://medium.com/@niclaspopovic0402" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@niclaspopovic0402" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages:</h3>
 <p align="left"> 
