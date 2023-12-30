@@ -47,5 +47,5 @@
 <h3 align="left">Database Systems:</h3>
 <p align="left">
  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
- <a href="https://www.clickhouse.com" target="_blank" rel="noreferrer"> <img src="https://clickhouse.com/_next/static/media/logo-full.ac8102d5.svg" alt="clickhouse" width="80" height="40"/> </a>
+ <a href="https://www.clickhouse.com" target="_blank" rel="noreferrer"> <img src="https://wiki.bicomsystems.com/howto/clickhouse-setup/01-clickhouse-logo.jpeg" alt="clickhouse" width="80" height="40"/> </a>
  </p>
