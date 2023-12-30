@@ -40,12 +40,12 @@
 
 <h3 align="left">Advanced Analytics Tools:</h3>
 <p align="left">
-<a href="[https://grafana.com](https://www.ibm.com/products/ilog-cplex-optimization-studio/cplex-optimizer)" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/800px-IBM_logo.svg.png" alt="CPLEX" width="80" height="40"/> </a>
+<a href="https://www.ibm.com/products/ilog-cplex-optimization-studio/cplex-optimizer" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/800px-IBM_logo.svg.png" alt="CPLEX" width="80" height="40"/> </a>
 <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> 
   </p>
   
 <h3 align="left">Database Systems:</h3>
 <p align="left">
  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
- <a href="https://www.clickhouse.com" target="_blank" rel="noreferrer"> <img src="https://mms.businesswire.com/media/20230324005223/de/1656334/22/clickhouse-3069x1531_%282%29.jpg" alt="clickhouse" width="40" height="40"/> </a>
+ <a href="https://www.clickhouse.com" target="_blank" rel="noreferrer"> <img src="https://clickhouse.com/_next/static/media/logo-full.ac8102d5.svg" alt="clickhouse" width="80" height="40"/> </a>
  </p>
