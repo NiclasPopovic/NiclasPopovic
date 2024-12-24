@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niclas</h1>
-<h3 align="center">I am a PhD student and sustainability enthusiast switching from a business degree to Data Science</h3>
+<h3 align="center">PhD student working on machine learning, mathematical optimization, and operations research to build software for a sustainable future, focusing on establishing a circular economy</h3>
 
 - 📝 I'm currently doing an PhD in [Production Management at WHU](https://www.whu.edu/en/faculty/supply-chain-management-group/production-management/external-doctoral-students/niclas-popovic/)
 
