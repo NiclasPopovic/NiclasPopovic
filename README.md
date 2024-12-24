@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niclas</h1>
-<h3 align="center" style="font-weight: normal;">Combining machine learning and operations research to develop innovative software for a circular economy and a sustainable future</h3>
+<h3 align="center" style="font-weight: normal;">I combine machine learning and operations research to develop innovative software for a circular economy and a sustainable future</h3>
 
 - 📝 I'm currently doing an PhD in [Production Management at WHU](https://www.whu.edu/en/faculty/supply-chain-management-group/production-management/external-doctoral-students/niclas-popovic/)
 
