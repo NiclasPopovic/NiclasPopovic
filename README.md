@@ -3,7 +3,7 @@
 
 - 🎓 I'm currently pursuing a PhD in [Production Management at WHU](https://www.whu.edu/en/faculty/supply-chain-management-group/production-management/external-doctoral-students/niclas-popovic/)
 
-- 🔭 I’m studying machine learning, regression mathematics, and simulation-based optimization with a focus on forecasting and inventory control for circular economy applications
+- 🔭 I research machine learning for time series forecasting and simulation-based optimization, focusing on forecasting and inventory control in circular economy settings
 
 - 📝 I aim to regularly write articles on [Medium](https://medium.com/@NiclasPopovic0402)
 
