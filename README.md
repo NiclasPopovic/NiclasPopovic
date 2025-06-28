@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Niclas</h1>
 <h3 align="center" style="font-weight: normal;">🤖 I combine machine learning and operations research to develop innovative software for a circular economy and a sustainable future 🌱</h3>
 
-- 🎓 I'm currently pursuing a PhD in [Production Management at WHU](https://www.whu.edu/en/faculty/supply-chain-management-group/production-management/external-doctoral-students/niclas-popovic/)
+- 🎓 I'm currently pursuing a PhD in [Production Management at WHU](https://www.whu.edu/en/faculty-research/supply-chain-management-group/production-management/)
 
 - 🔭 I research machine learning for time series forecasting and simulation-based optimization, focusing on forecasting and inventory control in circular economy settings
 
